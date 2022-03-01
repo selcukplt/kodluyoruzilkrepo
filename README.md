@@ -1,5 +1,5 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz Ilk Repo
+[Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
 
 ![İlkRepom](https://picsum.photos/200/300)
 
