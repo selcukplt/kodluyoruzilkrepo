@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
 
-![İlkRepom](C:\Users\Asus\Desktop\2021 Bahar\antigone\Github.png)
+![İlkRepom](C:\Users\Asus\Desktop\spm12\Github.png)
 
 ## Installation
 
